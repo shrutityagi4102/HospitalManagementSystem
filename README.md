@@ -1,2 +1,5 @@
 # HospitalManagementSystem
-As part of my DBMS and WPL Project, I am making a Hospital Management System
+
+As part of my DBMS and WPL Project, Varshaah & I am making a Hospital Management System
+
+
