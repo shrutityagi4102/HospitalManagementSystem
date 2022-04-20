@@ -7,3 +7,5 @@ As part of our DBMS and WPL Project, Varshaah & I am making a Hospital Managemen
 13/4  : Added assest, Login Pages for Admin and Doctor, Common Javascript file, Admin version file, Starting Pages and Doc version files (All HTML AND CSS)
 
 14/4 : Added Nurse version files
+
+20/4 : Added Login version files (php)
