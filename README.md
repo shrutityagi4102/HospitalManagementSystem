@@ -8,4 +8,6 @@ As part of our DBMS and WPL Project, Varshaah & I am making a Hospital Managemen
 
 14/4 : Added Nurse version files
 
-20/4 : Added Login version files (php)
+20/4 : Added admin Login version files (php)
+
+22/4 : Added doctor Login version files (php)
