@@ -5,6 +5,9 @@ As part of our WPL MINI Project, Varshaah & I  made a Hospital Management System
 
 Find the deployed project at : https://hospital-sys.herokuapp.com/index.php
 
+
+GitHub project at : https://github.com/shrutityagi4102/HospitalManagementSystem
+
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
