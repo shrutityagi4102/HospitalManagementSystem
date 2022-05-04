@@ -23,7 +23,7 @@ Find the deployed project at : https://hospital-sys.herokuapp.com/index.php
 
 * Frontend  : HTML5, CSS3, Bootstrap, JavaScript
 * Backend : PHP
-* Databade : MySQL
+* Database : MySQL
 * UI Designing : Canva
 * Hosting : Heroku
 
