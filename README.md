@@ -2,15 +2,6 @@
 
 As part of our WPL MINI Project, Varshaah & I  made a Hospital Management System
 
-
-Find the deployed project at : https://hospital-sys.herokuapp.com/
-
-For Demo Login purposes use the following credentials in the ADMIN Login :
-
-E-mail : admin1@hospital.in
-
-Password : admin1@kjsce
-
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
